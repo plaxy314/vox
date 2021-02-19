@@ -10,6 +10,10 @@ It proposes a proof-of-concept implementation of neural computers, e.g. physical
 
 Finally, it explores the nature of consciousness, including the supposition of minds, free will, self-awareness, and the limitations of the human mind. It offers an intuitive interpretation of the basic concepts of quantum mechanics through the lens of human behavior.
 
+To get an intuitive understanding, you can start with [simple.pdf](https://github.com/plaxy314/vox/raw/master/simple.pdf). 
+
+If you're comfortable with basic concepts of quantum mechanics, you can go directly to [paper.pdf](https://github.com/plaxy314/vox/raw/master/paper.pdf). 
+
 ## Personal Note
 
 In the pursuit of a basic understanding of my own consciousness, I’ve destroyed everything that I once held dearly in my life: emotion, dream, love, free will, and self-awareness. It feels too cold to live a life full of illusions. When the temperature drops outside, I see water molecules cuddling together and forming these beautiful snowflakes. I see the colors of the rainbow reflected by their ephemeral existence. I think to myself what a beautiful sight! It’s a miracle for a snowflake to even contemplate the meaning of life.
