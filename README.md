@@ -10,9 +10,7 @@ It proposes a proof-of-concept implementation of neural computers, e.g. physical
 
 Finally, it explores the nature of consciousness, including the supposition of minds, free will, self-awareness, and the limitations of the human mind. It offers an intuitive interpretation of the basic concepts of quantum mechanics through the lens of human behavior.
 
-To get an intuitive understanding, you can start with [simple.pdf](https://github.com/plaxy314/vox/blob/master/simple.pdf). 
-
-If you're comfortable with basic concepts of quantum mechanics, you can go directly to [paper.pdf](https://github.com/plaxy314/vox/blob/master/paper.pdf). 
+Please see details at [paper.pdf](https://github.com/plaxy314/vox/blob/master/paper.pdf). 
 
 ## Personal Note
 
