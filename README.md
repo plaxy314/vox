@@ -10,29 +10,29 @@ It proposes a proof-of-concept implementation of neural computers, e.g. physical
 
 Finally, it explores the nature of consciousness, including the supposition of minds, free will, self-awareness, and the limitations of the human mind. It offers an intuitive interpretation of the basic concepts of quantum mechanics through the lens of human behavior.
 
-Please see details at [paper.pdf](https://github.com/plaxy314/vox/blob/master/paper.pdf). 
+Please see details at [paper.pdf](paper.pdf?raw=true). 
 
 ## Neural Circuits in a Nutshell
 
 Suppose that a neural circuit receives upstream signals via a neuron (purple) and connects to the downstream network via another (orange).  It takes 1s for neural signals to circle around the circuit. Let us also assume that the upstream signals consist of two frequencies: one is firing every 1s (1Hz, as shown in red arrow), and the other firing every 1.1 ms (~0.9Hz, as shown in green arrow). The neuron firing is illustrated as the following diagram where a small block is the equivalent of 100 ms. We can visualize the signal propagation by dragging the signals toward the arrow of the time. The signal propagation along the circuit can be visualized as rotating the circuit. 
 
-![Signal Processing and Natural Frequency](natural_frequency.png)
+![Signal Processing and Natural Frequency](images/natural_frequency.png?raw=true)
 
 When the input signal lasts, the circuit largely relays the signal to the downstream network. The firings resonating with the circuit’s frequency (red arrows) always hit the same block (#7 red) while the firings of non-resonating signals (green arrows) spread around the circuit. If we represent the signal circling around the circuit by a probability density function (PDF) by counting the number of neuron firings per unit of time, i.e. 100ms, we will see the 1Hz signal stands out and the non-resonating signal (0.9Hz) becomes background noises. The area under the PDF corresponds to the total number of neuron firings around the circuit, which is powered by the neurons around the circuit and remains largely a constant. Over the time, the circuit will retain only the strength of the signal with the resonating frequency (1Hz) of the upstream signals.
 
-![Signal Circling Around a Circuit](neural_signal.png)
+![Signal Circling Around a Circuit](images/neural_signal.png?raw=true)
 
 An arbitrarily complex signal, namely, the intensity of neuron firings as a function of time, can be expressed as a Fourier series of different frequencies and stored in a cluster of neural circuits. The same neural structures can transform the signals from its frequency domain representation back to its time domain representation. This simple mechanism solves the encoding, storage, and read/write of the information for neural networks.
 
-![Basic Storage and Processing Units](processing_unit.png)
+![Basic Storage and Processing Units](images/processing_unit.png?raw=true)
 
 If the upstream signal stops, the neuron firings of the 1Hz signal continue circling around the circuit. When the signal arrives at the orange neuron,it will propage to both the next neuron of the circuit and the downstream network. However, the frequency of the signal will be 1Hz and no longer contains other frequencies in the original upstream signals. So, a neural circuit can not only remember the signal strength of its inputs, but also become a source broadcasting the signal of a specific frequency for the downstream circuits.
 
-![Circuits as the Source of Neural Signals](signal_source.png)
+![Circuits as the Source of Neural Signals](images/signal_source.png?raw=true)
 
 If a weak signal with resonating frequency arrives at the circuit and coincides with the circling signal, it will hit the hyper-sensitive area and trigger a strong frequency response. The frequency response of neural circuits are the neural basis for why we can utter one word at a time even though the muscle memories of all words are simultaneously wired to the muscle cells of the vocal cords.
 
-![Frequency Response](frequency_response.png)
+![Frequency Response](images/frequency_response.png?raw=true)
 
 
 ## Personal Note
